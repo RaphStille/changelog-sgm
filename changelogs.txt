@@ -1,4 +1,9 @@
 ## Changelogs 
+- **10-03-2025 / v0.2 :**
+  - MainMenu polished (80%),
+  - Disabled some bugged buttons,
+  - Drinking 3 cans of monster a day.
+
 - **10-03-2025 / v0.1 :**
   - Added optimization mods,
   - MainMenu configured,
