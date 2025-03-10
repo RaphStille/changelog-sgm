@@ -1,5 +1,6 @@
-Changelogs 10-03-2025 :
-``TEST``
-  - Essaie de texte
-  - Additions nulles
-  - Cacaprout
+## Changelogs 
+- *10-03-2025* / v0.1 :
+  - Added optimization mods,
+  - MainMenu configured,
+  - Added compatibility mods,
+  - Fixed crash & memory leak.
