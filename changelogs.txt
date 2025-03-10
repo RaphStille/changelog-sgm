@@ -1,5 +1,5 @@
 ## Changelogs 
-- *10-03-2025* / v0.1 :
+- **10-03-2025 / v0.1 :**
   - Added optimization mods,
   - MainMenu configured,
   - Added compatibility mods,
