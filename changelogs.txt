@@ -1,5 +1,10 @@
 ## Changelogs 
 
+- **11-03-2025 / v0.3.5 :**
+  - Removed some mods due to dupglitch,
+  - Removed dynamic trees for opti,
+  - Removed furry porn.
+
 - **11-03-2025 / v0.3 :**
   - Added Macaw's Mod,
   - Added The Twilight forest,
