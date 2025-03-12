@@ -1,7 +1,12 @@
 ## Changelogs 
 
+- **12-03-2025 / v0.4 :**
+  - Server Configured,
+  - Optimised,
+  - Finished MainMenu.
+
 - **11-03-2025 / v0.3.5 :**
-  - Removed some mods due to dupglitch,
+  - Removed some mods due to dupeglitch,
   - Removed dynamic trees for opti,
   - Removed furry porn.
 
